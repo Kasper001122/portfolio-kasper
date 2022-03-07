@@ -1,0 +1,13 @@
+remember global refer to the 2d list with self.list
+save to file is disabled until the countries have been loaded
+set visibility hidden for everything in the countries info group box until the load countries buttons been clicked
+
+create a function that once the Load Countries button is clicked: reads the Countries files with the CSV.reader, append each row into a 2d list, disables the Load Countries button
+using currentRowChanged slot  use for row in self.list
+                                    self.widget.addItem(row[0])
+when an item in the list is clicked enter the density and area (defaulted as miles) and percentage into their respect labels
+load the flag image into its label  by opening the flags folder and comparing the current selected country name to the img files in the folder (remember to create a variable for comparison that replaces " " with "_")
+when the other radio button is clicked set the label to change automatically
+the drop down box should also function the same way
+add all countries population together and display the current country's percentage of the total population ((currentcountry/totalpopulationn)*100)
+have the user ability to change the population and save it to the file and change the calculation have a try: execpt block so that if the user inputs an invalid entry it comes back with a message saying that it is invalid
