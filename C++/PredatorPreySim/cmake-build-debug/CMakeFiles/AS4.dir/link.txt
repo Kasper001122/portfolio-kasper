@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/AS4.dir/main.cpp.o CMakeFiles/AS4.dir/Human.cpp.o CMakeFiles/AS4.dir/Zombie.cpp.o CMakeFiles/AS4.dir/Organism.cpp.o CMakeFiles/AS4.dir/City.cpp.o CMakeFiles/AS4.dir/GameSpecs.cpp.o -o AS4.exe -Wl,--out-implib,libAS4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

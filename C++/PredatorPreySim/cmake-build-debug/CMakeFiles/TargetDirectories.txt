@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Kasper/CLionProjects/AS4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Kasper/CLionProjects/AS4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Kasper/CLionProjects/AS4/cmake-build-debug/CMakeFiles/AS4.dir
