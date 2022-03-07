@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="submitbtn">Submit</string>
+    <string name="nameView">Name</string>
+    <string name="validate">Name is empty, please enter a name</string>
+    <string name="nextQ">Start</string>
+    <string name="tryAgain">Try Again?</string>
+</resources>
